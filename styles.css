@@ -1,0 +1,27 @@
+h1{
+    margin: 10px;
+ 
+    padding: 0;
+    color: #60336E;
+}
+h2 {
+    margin: 10px;
+
+    padding: 0;
+    color: #60336E;
+}
+.form{
+    margin: 10px;   
+
+}
+
+#res{
+    
+    font-weight: bold;
+    font-size: 60px;   
+    text-align: center;
+
+}
+body{
+    background-color: #FFF5DF ;
+}
